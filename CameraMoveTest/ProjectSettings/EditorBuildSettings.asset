@@ -6,11 +6,14 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/river/scene_01.unity
+    path: Assets/Scenes/Scene_01/scene_01.unity
     guid: c51ea049124c5a646a54a545cc74a301
   - enabled: 1
     path: Assets/Scenes/keiryu_01/keiryu_01.unity
-    guid: cb3f1a412068bb04ab82d8ff4e7488db
+    guid: c098690ecb040ac44b023fd78b0310b8
   - enabled: 1
     path: Assets/Scenes/cave_01/cave_01.unity
     guid: ff82be9417a905e46943a6ce95f7cd5b
+  - enabled: 1
+    path: Assets/Scenes/keiryu_02/keiryu_02.unity
+    guid: 8d0cc13f5badef84c9a280839022632e
