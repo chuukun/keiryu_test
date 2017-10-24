@@ -11,8 +11,10 @@ public class MouseCameraRotation : MonoBehaviour {
 	void Update() {
 		float h = horizontalSpeed * Input.GetAxis("Mouse X");
 		float v = verticalSpeed * -Input.GetAxis("Mouse Y");
-		axisY += h;
-		axisX += v;
+		//if (Input.GetMouseButtonDown (0)) {
+			axisY += h;
+			axisX += v;
+		//}
 		Quaternion rot = Quaternion.AngleAxis (axisY, Vector3.up) * Quaternion.AngleAxis (axisX, Vector3.right);
 		transform.localRotation = rot;
 	}

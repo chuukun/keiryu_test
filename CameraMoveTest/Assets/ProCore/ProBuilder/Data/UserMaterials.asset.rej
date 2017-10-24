@@ -1,0 +1,10 @@
+diff a/CameraMoveTest/Assets/ProCore/ProBuilder/Data/UserMaterials.asset b/CameraMoveTest/Assets/ProCore/ProBuilder/Data/UserMaterials.asset	(rejected hunks)
+@@ -16,7 +16,7 @@
+   - {fileID: 2100000, guid: 489d41a1b75b32c4e872c8464d58a6f4, type: 2}
+   - {fileID: 2100000, guid: 65f94717f368ec042ae498c8acc1747f, type: 2}
+   - {fileID: 2100000, guid: 829dac6f707d0b44a8ca2095acf4860a, type: 2}
+-  - {fileID: 0}
++  - {fileID: 2100000, guid: 671283a439b88f84b9fbe77dcc68cda5, type: 2}
+   - {fileID: 0}
+   - {fileID: 0}
+   - {fileID: 0}
